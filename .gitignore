@@ -1,0 +1,6 @@
+.env
+notion-mirror-mcp
+*.db
+*.db-shm
+*.db-wal
+~/.notion-mirror/
